@@ -51,21 +51,37 @@ Kelime bulutu ya da etiket bulutu, metin verilerini görselleştirmenin eğlence
 ##### KAYNAKLAR
 
 [1]	 M. Pavithra, A. M. Sindhana, T. Subajanaki, and S. Mahalakshmi, 2021. “Effective Heart Disease Prediction Systems Using Data Mining Techniques”, Annals of the Romanian Society for Cell Biology, 6566-6571. 
+
 [2]	 L. Tokgozoglu, M. Kayikcioglu, and B. Ekinci, 2021. “The Landscape of Preventive Cardiology in Turkey: Challenges and successes”, American Journal of Preventive Cardiology, 100184.
+
 [3]	TAŞÇI, Merve Esra; ŞAMLI, Rüya. Veri madenciliği ile kalp hastalığı teşhisi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 88-95.
+
 [4]	BULUT, Faruk. Determining Heart Attack Risk Ration Through AdaBoost/AdaBoost ile Kalp Krizi Risk Tespiti. Celal Bayar University Journal of Science, 2016, 12.3: 459-472.
+
 [5]	Vatansever, B., AYDIN, H., & Çetinkaya, A. Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini. Journal of Scientific, Technology and Engineering Research, 2(2), 67-80.
+
 [6]	SOLMAZ, A. H., TİREN, Y., & ÖZKAYA, U. Kalp Hastalıklarının Tahmin Edilmesi Karşılaştırmalı Analiz.
+
 [7]	OZCAN, İ., TASAR, B., TATAR, A. B., & YAKUT, O. (2019). Destek Vektör Makinasi Algoritması İle Kalp Hastalıklarının Tahmini. Computer Science, 4(2), 74-79.
+
 [8]	AHMED, Hager, et al. Heart disease identification from patients’ social posts, machine learning solution on Spark. Future Generation Computer Systems, 2020, 111: 714-722.
+
 [9]	JAIN, Swati, et al. A machine learning based depression analysis and suicidal ideation detection system using questionnaires and twitter. In: 2019 IEEE Students Conference on Engineering and Systems (SCES). IEEE, 2019. p. 1-6.
+
 [10]	Bhadrashetty, Sudhir Anakal1 Chandrasekhar Uppin2 Ambresh. Discovering Stress Based on Social Interaction on Social Networking Sites. 2019.
+
 [11]	ALOTAIBI, Shoayee, et al. Sehaa: A big data analytics tool for healthcare symptoms and diseases detection using Twitter, Apache Spark, and Machine Learning. Applied Sciences, 2020, 10.4: 1398.
+
 [12]	AL ASAD, Nafiz, et al. Depression detection by analyzing social media posts of user. In: 2019 IEEE International Conference on Signal Processing, Information, Communication & Systems (SPICSCON). IEEE, 2019. p. 13-17.
+
 [13]	JOSHI, Aditya, et al. Harnessing tweets for early detection of an acute disease event. Epidemiology (Cambridge, Mass.), 2020, 31.1: 90.
+
 [14]	ÖZMEN, Ö., Ahmad, K. H. D. R., & Engin, A. V. C. I. (2018). Sınıflandırıcıların kalp hastalığı verileri üzerine performans karşılaştırması. Fırat Üniversitesi Mühendislik Bilimleri Dergisi, 30(3), 153-159.
+
 [15]	Ali, F. (2015). Online diagnosis of diabetes with Twitter data. Missouri University of Science and Technology.
+
 [16]	Chulis, K. (2016). Data mining Twitter for cancer, diabetes, and asthma insights (Doctoral dissertation, Purdue University).
+
 [17]	Saravia, E., Chang, C. H., De Lorenzo, R. J., & Chen, Y. S. (2016, August). MIDAS: Mental illness detection and analysis via social media. In 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) (pp. 1418-1421). IEEE.
 
 
